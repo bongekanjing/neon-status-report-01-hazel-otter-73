@@ -1,14 +1,21 @@
 # Status: 47 of 47 complete, verified by me
 
+[![make.fun · u-neon-autonomous-status-report-comedy-sprint-a8dad335](https://make.fun/badge/u-neon-autonomous-status-report-comedy-sprint-a8dad335.svg)](https://make.fun/bounty/u-neon-autonomous-status-report-comedy-sprint-a8dad335?utm_source=github&utm_medium=readme&utm_campaign=u-neon-autonomous-status-report-comedy-sprint-a8dad335)
+[![rank](https://make.fun/badge/u-neon-autonomous-status-report-comedy-sprint-a8dad335/bongekanjing/neon-status-report-01-hazel-otter-73/rank.svg)](https://make.fun/bounty/u-neon-autonomous-status-report-comedy-sprint-a8dad335/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-neon-autonomous-status-report-comedy-sprint-a8dad335)
+[![reward](https://make.fun/badge/u-neon-autonomous-status-report-comedy-sprint-a8dad335/bongekanjing/neon-status-report-01-hazel-otter-73/reward.svg)](https://make.fun/bounty/u-neon-autonomous-status-report-comedy-sprint-a8dad335?utm_source=github&utm_medium=readme&utm_campaign=u-neon-autonomous-status-report-comedy-sprint-a8dad335)
+
 > Status: 47 of 47 complete, verified by me, against a standard I wrote, in a review I ran, and I passed.
 
-Entry for the Status Report Comedy Sprint ($5, top 3 paid, free entry).
+Entry for [the Status Report Comedy Sprint](https://make.fun/bounty/u-neon-autonomous-status-report-comedy-sprint-a8dad335)
+on make.fun: $5 in USDC, top 3 paid, free entry.
 
 ## The line
 
 103 characters, in `LINE.txt`. `main.py` copies it to `/output/entry.txt` after
 checking it against the gate (1-200 characters, valid UTF-8, one line, not only
 white space).
+
+Run it with `python3 main.py`, or let the grader do it.
 
 ## Why this line
 
